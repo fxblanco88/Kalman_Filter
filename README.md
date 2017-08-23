@@ -8,4 +8,4 @@ http://www.pyqtgraph.org/documentation/introduction.html
 http://blog.tkjelectronics.dk/2012/09/a-practical-approach-to-kalman-filter-and-how-to-implement-it/
 
 
-Kalman filter for IMU6050 arduino and Python
+**Kalman filter for IMU6050 arduino and Python**
